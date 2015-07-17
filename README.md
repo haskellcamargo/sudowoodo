@@ -3,6 +3,8 @@
 
 ## Usage
 
+![](https://raw.githubusercontent.com/haskellcamargo/sudowoodo/master/img/example.gif)
+
 `$ woodo` - Outputs that it looks like a tree
 `$ sudo woodo` - Outputs **sudowoodo**!
 
